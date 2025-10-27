@@ -1,0 +1,348 @@
+{
+  "bundles": [
+    {
+      "name": "agents",
+      "assets": [
+        {
+          "alias": "ai",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/ai.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "art",
+          "src": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=32&h=32&fit=crop&crop=center",
+          "data": {
+            "height": 32,
+            "transparent": false,
+            "width": 32
+          }
+        },
+        {
+          "alias": "business",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/business.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "crypto",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/crypto.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "fashion",
+          "src": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=32&h=32&fit=crop&crop=center",
+          "data": {
+            "height": 32,
+            "transparent": false,
+            "width": 32
+          }
+        },
+        {
+          "alias": "finance",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/finance.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "health",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/health.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "jewelry",
+          "src": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=32&h=32&fit=crop&crop=center",
+          "data": {
+            "height": 32,
+            "transparent": false,
+            "width": 32
+          }
+        },
+        {
+          "alias": "legal",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/legal.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "lifestyle",
+          "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=32&h=32&fit=crop&crop=center",
+          "data": {
+            "height": 32,
+            "transparent": false,
+            "width": 32
+          }
+        },
+        {
+          "alias": "medical",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/medical.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "tech",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/agents/tech.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "wellness",
+          "src": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=32&h=32&fit=crop&crop=center",
+          "data": {
+            "height": 32,
+            "transparent": false,
+            "width": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "brands",
+      "assets": [
+        {
+          "alias": "gym",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/brands/gym.png",
+          "data": {
+            "height": 480,
+            "transparent": true,
+            "width": 480
+          }
+        },
+        {
+          "alias": "jewelry",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/brands/jewelry.png",
+          "data": {
+            "height": 480,
+            "transparent": true,
+            "width": 480
+          }
+        },
+        {
+          "alias": "jonkers",
+          "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=48&h=48&fit=crop&crop=center",
+          "data": {
+            "height": 48,
+            "transparent": false,
+            "width": 48
+          }
+        },
+        {
+          "alias": "logo",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/icons/workflow.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "nike",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/brands/nike.png",
+          "data": {
+            "height": 480,
+            "transparent": true,
+            "width": 480
+          }
+        }
+      ]
+    },
+    {
+      "name": "categories",
+      "assets": [
+        {
+          "alias": "art",
+          "src": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=24&h=24&fit=crop&crop=center",
+          "data": {
+            "height": 24,
+            "transparent": false,
+            "width": 24
+          }
+        },
+        {
+          "alias": "business",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/business.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "creative",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/creative.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "education",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/education.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "fashion",
+          "src": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=24&h=24&fit=crop&crop=center",
+          "data": {
+            "height": 24,
+            "transparent": false,
+            "width": 24
+          }
+        },
+        {
+          "alias": "finance",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/finance.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "health",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/health.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "jewelry",
+          "src": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=24&h=24&fit=crop&crop=center",
+          "data": {
+            "height": 24,
+            "transparent": false,
+            "width": 24
+          }
+        },
+        {
+          "alias": "law",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/law.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "lifestyle",
+          "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=24&h=24&fit=crop&crop=center",
+          "data": {
+            "height": 24,
+            "transparent": false,
+            "width": 24
+          }
+        },
+        {
+          "alias": "science",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/science.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "tech",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/categories/tech.svg",
+          "data": {
+            "height": 24,
+            "transparent": true,
+            "width": 24
+          }
+        },
+        {
+          "alias": "wellness",
+          "src": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=24&h=24&fit=crop&crop=center",
+          "data": {
+            "height": 24,
+            "transparent": false,
+            "width": 24
+          }
+        }
+      ]
+    },
+    {
+      "name": "icons",
+      "assets": [
+        {
+          "alias": "chat",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/icons/chat.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "commerce",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/icons/commerce.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "payment",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/icons/payment.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "shopping",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/329e92915bb647c284bc68258a9fbab2/preview/assets/icons/shopping.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        },
+        {
+          "alias": "workflow",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/dbba0fdbfb2c4bc18d0d4a7a2dc1c1f9/main/preview/assets/icons/workflow.svg",
+          "data": {
+            "height": 32,
+            "transparent": true,
+            "width": 32
+          }
+        }
+      ]
+    }
+  ]
+}

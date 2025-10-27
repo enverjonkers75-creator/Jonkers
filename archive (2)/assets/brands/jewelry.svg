@@ -1,0 +1,46 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#FFD700"/>
+        <stop offset="50%" style="stop-color:#DAA520"/>
+        <stop offset="100%" style="stop-color:#FFD700"/>
+    </linearGradient>
+    <filter id="diamondGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+        <feComponentTransfer in="blur" result="glow">
+            <feFuncA type="linear" slope="0.8"/>
+        </feComponentTransfer>
+        <feMerge>
+            <feMergeNode in="SourceGraphic"/>
+            <feMergeNode in="glow"/>
+        </feMerge>
+    </filter>
+</defs>
+
+<!-- Background for depth, subtle dark tone -->
+<rect x="0" y="0" width="64" height="64" fill="#1a1a1a"/>
+
+<!-- Main elegant geometric pattern - stylized 'A' for AI, or abstract luxury form -->
+<!-- Outer graceful curve, gold -->
+<path d="M32 8 C48 8 56 24 56 32 C56 40 48 56 32 56 C16 56 8 40 8 32 C8 24 16 8 32 8 Z" fill="url(#goldGradient)" stroke="#B8860B" stroke-width="0.5"/>
+
+<!-- Inner refined curve, slightly darker gold for contrast -->
+<path d="M32 12 C45 12 52 24 52 32 C52 40 45 52 32 52 C19 52 12 40 12 32 C12 24 19 12 32 12 Z" fill="#DAA520" stroke="#B8860B" stroke-width="0.5"/>
+
+<!-- Central diamond-like gem -->
+<g filter="url(#diamondGlow)">
+    <path d="M32 20 L38 32 L32 44 L26 32 L32 20 Z" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="0.5"/>
+    <!-- Facets for diamond sparkle -->
+    <path d="M32 20 L32 32 L26 32 Z" fill="#FFFFFF" opacity="0.7"/>
+    <path d="M32 20 L32 32 L38 32 Z" fill="#FFFFFF" opacity="0.7"/>
+    <path d="M32 44 L32 32 L26 32 Z" fill="#FFFFFF" opacity="0.5"/>
+    <path d="M32 44 L32 32 L38 32 Z" fill="#FFFFFF" opacity="0.5"/>
+</g>
+
+<!-- Small accent gems/dots on the outer curve -->
+<circle cx="32" cy="8" r="1.5" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="0.25" filter="url(#diamondGlow)"/>
+<circle cx="56" cy="32" r="1.5" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="0.25" filter="url(#diamondGlow)"/>
+<circle cx="32" cy="56" r="1.5" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="0.25" filter="url(#diamondGlow)"/>
+<circle cx="8" cy="32" r="1.5" fill="#E0FFFF" stroke="#ADD8E6" stroke-width="0.25" filter="url(#diamondGlow)"/>
+
+</svg>
